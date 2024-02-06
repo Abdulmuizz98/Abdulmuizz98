@@ -41,6 +41,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Abdulmuizz98)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Abdulmuizz98)
 
+<!--
 <details>
 <p align="center">
   <a href="https://github.com/wervlad">
@@ -57,6 +58,8 @@
   </a>
 </p>
 </details>
+
+-->
 
 <!--
 <p align="center">
